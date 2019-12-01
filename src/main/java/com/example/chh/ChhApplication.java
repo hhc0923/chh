@@ -10,6 +10,8 @@ public class ChhApplication {
         SpringApplication.run(ChhApplication.class, args);
         System.out.println();
         System.out.println(111);
+        System.out.println(222);
+        System.out.println(333);
     }
 
 }
